@@ -1,4 +1,4 @@
-# MM-FINAL-LED-CODE
+# Media Machines Final Led Code Along The Pathway of the Build
 Media Machines Final Led Code Along The Pathway of the Build. 
 
 This code was iterated on as it was merged into the final game board space. 
